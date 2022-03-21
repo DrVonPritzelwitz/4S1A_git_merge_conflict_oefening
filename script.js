@@ -1,4 +1,4 @@
-let class4S1A = ['Max'];
+let class4S1A = ['Ömer','Ewout','Max'];
 
 let classList = document.getElementById('cl');
 
