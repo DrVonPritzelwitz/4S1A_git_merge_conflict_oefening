@@ -1,4 +1,4 @@
-let class4S1A = [Job];
+let class4S1A = ['Job'];
 
 let classList = document.getElementById('cl');
 
@@ -13,4 +13,3 @@ if(outputList === '') {
 } else {
 	classList.innerHTML = outputList;
 }
-
