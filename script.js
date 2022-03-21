@@ -1,6 +1,6 @@
 let class4S1A = [];
 
-let classList = document.getElementById('cl');
+let classList = document.getElementById('Amal');
 
 let outputList = '';
 
