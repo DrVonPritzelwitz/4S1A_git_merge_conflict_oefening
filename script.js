@@ -1,6 +1,6 @@
-let class4S1A = ['Daan'];
+let class4S1A = ['Ömer','Ewout','Daan'];
 
-let classList = document.getElementById('cl');
+let classList = document.getElementById('Amal');
 
 let outputList = '';
 
