@@ -1,4 +1,4 @@
-let class4S1A = ['Ömer','Ewout'];
+let class4S1A = ['Ömer','Ewout','Remco'];
 
 
 let classList = document.getElementById('Amal');
